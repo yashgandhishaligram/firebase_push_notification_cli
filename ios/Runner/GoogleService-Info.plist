@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>5064426749-ov6nd5kv69e0515jimo7ikskvc5jaqqi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.5064426749-ov6nd5kv69e0515jimo7ikskvc5jaqqi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDolPScByx8RMu2c_2doPpEmoNTk8ofc1w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>5064426749</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebasePushNotificationCli</string>
+	<key>PROJECT_ID</key>
+	<string>firestore-bloc-7d52a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firestore-bloc-7d52a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:5064426749:ios:529a8399c0258ed89fea94</string>
+	<key>DATABASE_URL</key>
+	<string>https://firestore-bloc-7d52a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
